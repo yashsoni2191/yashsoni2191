@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @yashsoni2191
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Yash Soni 👋
+A passionate Front-End Developer always looking for new ways to solve problems and create impactful solutions. I specialize in building web applications, exploring cutting-edge technologies, and contributing to open-source projects.
 
-<!---
-yashsoni2191/yashsoni2191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Currently working on improving my skills in JavaScript, CSS, and modern web development.
+🌱 Learning more about APIs, cloud services, and advanced JavaScript frameworks.
+👯 Always open to collaborate on exciting projects and share knowledge with the community.
+💬 Ask me about JavaScript, web development, and APIs.
+📫 Reach me at yashsoni2191@gmail.com.
