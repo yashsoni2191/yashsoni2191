@@ -1,8 +1,23 @@
-Hi, I'm Yash Soni 👋
-A passionate Front-End Developer always looking for new ways to solve problems and create impactful solutions. I specialize in building web applications, exploring cutting-edge technologies, and contributing to open-source projects.
+<h1 align="center">Hi 👋, I'm dfgdfg</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🔭 Currently working on improving my skills in JavaScript, CSS, and modern web development.
-🌱 Learning more about APIs, cloud services, and advanced JavaScript frameworks.
-👯 Always open to collaborate on exciting projects and share knowledge with the community.
-💬 Ask me about JavaScript, web development, and APIs.
-📫 Reach me at yashsoni2191@gmail.com.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsoni2191&label=Profile%20views&color=0e75b6&style=flat" alt="yashsoni2191" /> </p>
+
+- 🔭 I’m currently working on **dsfgdsfg**
+
+- 👯 I’m looking to collaborate on **dsfgd**
+
+- 🤝 I’m looking for help with **dfgdsgds**
+
+- ⚡ Fun fact **sfdg gdfsg**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsoni2191&show_icons=true&locale=en&layout=compact" alt="yashsoni2191" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsoni2191&" alt="yashsoni2191" /></p>
