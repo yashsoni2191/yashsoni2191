@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsoni2191&label=Profile%20views&color=0e75b6&style=flat" alt="yashsoni2191" /> </p>
 
-- 🔭 I’m currently working on **dsfgdsfg**
+- 🔭 I’m currently working on React JS.
 
-- 👯 I’m looking to collaborate on **dsfgd**
+- 👯 I’m looking to collaborate on React js projects.
 
-- 🤝 I’m looking for help with **dfgdsgds**
-
-- ⚡ Fun fact **sfdg gdfsg**
+- ⚡ Fun fact - I think i make my work creative.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
