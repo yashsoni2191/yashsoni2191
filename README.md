@@ -26,4 +26,33 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=yashsoni2191&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 Statistics
+
+<div align="center">
+  
+  <a href="https://github.com/yashsoni2191">
+    
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashsoni2191&theme=vision_friendly_dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashsoni2191&theme=vision_friendly_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashsoni2191&theme=vision_friendly_dark&utcOffset=8) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashsoni2191&theme=vision_friendly_dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsoni2191&theme=vision_friendly_dark)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DH4R4M&theme=react"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yashsoni2191/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yashsoni2191/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/yashsoni2191/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
